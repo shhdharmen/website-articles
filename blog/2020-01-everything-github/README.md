@@ -87,7 +87,7 @@ A good companion is the static site generator [Scully](https://github.com/scully
 His Angular Book uses a new Github repository in every chapter (so there are quite a lot of repos 😅).
 So he developed a solution that makes it as easy as possible to bring an Angular App to Github Pages.
 The project exists since 2016 and if it was started today, it would certainly have a nicer name.
-According to Github, 7000 projects already deploing with angular-cli-ghpages.
+According to Github, 7000 projects already deploying with angular-cli-ghpages.
 
 ### 1.5. GitHub plans
 
@@ -712,4 +712,3 @@ Many thanks to [Danny Koppenhagen](https://twitter.com/d_koppenhagen/), for proo
 <!--
 <small>**Header image:** Photo by [SpaceX](https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/launch?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
 -->
-

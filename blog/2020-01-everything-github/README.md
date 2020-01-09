@@ -535,7 +535,7 @@ GitHub Actions usage is free for public repositories.
 4.  **Done!** 🚀.  
    The action will run by itself the first time.
 
-Next time when you push your changes to Github, Github Actions will run the workflow we created and it will deploy your updated app on Github Pages.
+This action will run by itself the first time and each time when you push your changes to Github.
 
 
 ### 5.3 Automate a private repo (via `GITHUB_TOKEN`)

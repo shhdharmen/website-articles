@@ -188,6 +188,7 @@ We assume that the majority of our readers have already worked with Angular. But
           .subscribe(b => this.book = b);
       }
     }
+    
     ```
   
     ```html

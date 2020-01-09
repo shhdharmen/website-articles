@@ -165,6 +165,7 @@ We assume that the majority of our readers have already worked with Angular. But
       bootstrap: [AppComponent]
     })
     export class AppModule { }
+    
     ```
   
     For example, we could load a book from our backend at https://api.angular.schule.

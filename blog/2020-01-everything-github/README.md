@@ -332,7 +332,12 @@ GitHub will activate the hosting automatically, if this branch has the name `gh-
     Please do not try to set a value.
     This will work for the first time, but the setting is not permanent, because `angular-cli-ghpages` will overwrite it again.
 
-
+6. Now, add, commit and push the changes:
+    ```sh
+    git add .
+    git commit -m "build: add angular-cli-gh-pages"
+    git push origin master
+    ```
 
 ## 5. Automating the Deployment with GitHub Actions
 

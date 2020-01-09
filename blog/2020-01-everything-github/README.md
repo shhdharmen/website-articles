@@ -533,7 +533,6 @@ GitHub Actions usage is free for public repositories.
     ![start commit](./screenshot_5_start-commit.png)
 
 4.  **Done!** 🚀.  
-   The action will run by itself the first time.
 
 This action will run by itself the first time and each time when you push your changes to Github.
 
